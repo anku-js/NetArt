@@ -19,7 +19,11 @@ export default function Footer() {
         <FaFacebook className="footer-icon2" />
         <p className="footer-text">www.facebook.com/cripumps</p>
       </a>
-      <a href="https://www.crigroups.com" target="_blank" className="footer-info">
+      <a
+        href="https://www.crigroups.com"
+        target="_blank"
+        className="footer-info"
+      >
         <IoGlobe className="footer-icon3" />
         <p className="footer-text">www.crigroups.com</p>
       </a>

@@ -23,29 +23,29 @@
   font-size: 16px;
 }
 .heroPage-pointers-container {
-    line-height: 1;
+  line-height: 1;
 }
 .heroPage-image {
   width: 100%;
 }
 
 @media screen and (max-width: 480px) {
-    .heroPage-logo {
-        width: 200px;
-      }
-      .heroPage-flex {
-        flex-direction: column;
-      }
-      .heroPage-award-img-div {
-        width: 100%;
-        display: flex;
-        justify-content: center;
-      }
-      .heroPage-award-img {
-        width: 80%;
-      }
-      .heroPage-content-container {
-        width: 100%;
-        font-size: 16px;
-      }
+  .heroPage-logo {
+    width: 300px;
+  }
+  .heroPage-flex {
+    flex-direction: column;
+  }
+  .heroPage-award-img-div {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+  }
+  .heroPage-award-img {
+    width: 80%;
+  }
+  .heroPage-content-container {
+    width: 100%;
+    font-size: 16px;
+  }
 }
