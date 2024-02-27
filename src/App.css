@@ -1,0 +1,17 @@
+/* * {
+  padding: 0;
+  margin: 0;
+} */
+body {
+  margin: 0;
+  padding: 0;
+}
+.app-container {
+  padding: 10px;
+  background: rgb(255, 248, 170);
+  background: linear-gradient(
+    0deg,
+    rgba(255, 248, 170, 1) 0%,
+    rgba(255, 255, 255, 1) 100%
+  );
+}
